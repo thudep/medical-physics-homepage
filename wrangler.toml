@@ -1,4 +1,4 @@
 assets = {directory = "./book"}
-compatibility_date = "2025-3-19"
-name = "ri"
+compatibility_date = "2026-3-30"
+name = "mpc"
 workers_dev = false
