@@ -5,4 +5,4 @@
 # 赛事介绍与规则
 
 - [第二届医学物理挑战赛](./introduction.md)
-
+- [赛程安排](./schedule.md)
