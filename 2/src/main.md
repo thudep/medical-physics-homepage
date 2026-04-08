@@ -8,3 +8,5 @@
   - [赛事介绍与报名](./introduction.md)
   - [赛事规则](./rules.md)
   - [赛程安排](./schedule.md)
+- 赛事培训
+  - [第一次赛事培训](./talk/talk1.md)
