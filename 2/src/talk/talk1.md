@@ -26,3 +26,26 @@
     - 神经网络基础知识
     - MNIST代码示例
   4. 16:10-16:30: 答疑与自由交流
+
+## 预习材料
+
+在本次培训前, 需要选手自行准备 linux 环境, 如果你用的是 Windows 系统, 那么可以在管理员模式下打开 `PowerShell` , 使用如下命令安装 WSL2:
+
+```powershell
+wsl --install -d Debian
+```
+
+完成安装后, 可以自行完成用户名与密码的配置 (注意输入密码时, 在终端中不会显示).
+
+如果遇到问题, 可以参考以下材料或自行查找视频资料, 也可以在培训会正式开始前半个小时线下向组委会寻求帮助:
+- [官方文档: 如何使用 WSL 在 Windows 上安装 Linux](https://learn.microsoft.com/zh-cn/windows/wsl/install)
+- [实验物理的大数据方法课程文档: WSL2 安装教程](https://physics-data.meow.plus/faq/env/windows/)
+- [实验物理的大数据方法课程文档: macOS 环境配置](https://physics-data.meow.plus/faq/env/mac/)
+- [实验物理的大数据方法课程视频资料: 在 macOS 上使用 UTM 安装 debian](https://hep.tsinghua.edu.cn/~orv/teaching/physics-data/UTM_Debian-12_arm64.webm)
+
+如有需要, 可以自行完成软件源的更改配置, 以下给出清华大学 TUNA 镜像源的配置参考文档:
+- [TUNA 官方文档: Debian 软件源](https://mirrors.tuna.tsinghua.edu.cn/help/debian/)
+- [TUNA 官方文档: Ubuntu 软件仓库](https://mirrors.tuna.tsinghua.edu.cn/help/ubuntu/)
+- [实验物理的大数据方法课程文档: Linux 环境配置](https://physics-data.meow.plus/faq/env/linux/)
+
+## 培训材料
