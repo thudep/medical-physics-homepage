@@ -49,3 +49,6 @@ wsl --install -d Debian
 - [实验物理的大数据方法课程文档: Linux 环境配置](https://physics-data.meow.plus/faq/env/linux/)
 
 ## 培训材料
+
+第一次培训的材料如下，包含本次培训录屏与PPT，以及深度学习资料：
+- [第一次赛事培训材料](https://cloud.tsinghua.edu.cn/d/77dec93fd82e44e8b805/)
