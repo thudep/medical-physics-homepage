@@ -11,3 +11,5 @@
   - [赛程安排](./schedule.md)
 - 赛事培训
   - [第一次赛事培训](./talk/talk1.md)
+- 常见问题
+  - [环境配置问题](./environment.md)
