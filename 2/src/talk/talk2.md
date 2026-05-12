@@ -26,7 +26,7 @@ PyTorch 是一个基于 Python 的开源机器学习框架，由 Facebook（现 
   1. 神经网络的原理
   2. 基于pytorch的MLP
 
-## 材料
+## 培训材料
 
-- **回放**： 
-- **讲义与代码**： 
+第二次培训的材料如下，包含本次培训录屏与讲义：
+- [第二次赛事培训材料](https://cloud.tsinghua.edu.cn/d/77dec93fd82e44e8b805/)
