@@ -4,13 +4,13 @@
 
 ## 任务要求
 
-参赛选手可使用 Pytorch 完成模型训练，在给出的[样例代码](https://git.tsinghua.edu.cn/medical-physics-challenge/2026/example-code)的基础上进行修改（或者直接重写，亦可不用神经网络~），实现一个可以输入原始 CT 图像，得到对应器官分割标签图的神经网络模型。并将评分集的原始图片（后缀为 `.nii.gz` ）作为输入，得到与标签图格式完全相同的图像（后缀为 `.nii.gz` ），最终得分将通过其与评分集的真实标签图做对比得到。
+参赛选手可使用 Pytorch 完成模型训练，在给出的[样例代码](https://git.tsinghua.edu.cn/medical-physics-challenge/2026/committee/example-code)的基础上进行修改（或者直接重写，亦可不用神经网络~），实现一个可以输入原始 CT/MRI 图像，得到对应器官分割标签图的神经网络模型。并将评分集的原始图片（后缀为 `.nii.gz` ）作为输入，得到与标签图格式完全相同的图像（后缀为 `.nii.gz` ），最终得分将通过其与评分集的真实标签图做对比得到。
 
 选手还应完成一份简要的比赛报告（参考给出的 `report.md` 模版），重点说明所需的额外运行环境要求和本队的优化修改思路。
 
 ## 提交方式
 
-本比赛在[清华大学gitlab](https://git.tsinghua.edu.cn/radiation-imaging-contest/competitor)上进行，选手修改代码后，进行 `git push` 操作即可自动运行评分 ci ，无需其他方式提交。
+本比赛在[清华大学gitlab](https://git.tsinghua.edu.cn/medical-physics-challenge/2026)上进行，选手修改代码后，进行 `git push` 操作即可自动运行评分 ci ，无需其他方式提交。
 
 ## 评分标准
 

@@ -6,7 +6,8 @@
 
 - [第二届医学物理挑战赛](./introduction.md)
 - [赛程安排](./schedule.md)
-- [赛事评分规则](./rules.md)
+- [赛事规则](./rules.md)
+- [决赛代码评分规则](./grade.md)
 
 # 赛事培训会
 - [第一次赛事培训](./talk/talk1.md)
