@@ -33,3 +33,4 @@
 1. 受限于 ci 的运行时长限制, 允许选手在 ci 上仅运行评测过程, 训练过程可以在本地或云平台上进行.
 2. 请尽量保持 git 仓库的整洁, 不要将[比赛数据集](https://mpcfile.thudep.com:7300/)内的文件添加到远程 git 仓库中 (它们已经被 `.gitignore` 所忽略, 默认是不会被上传的), 如果被发现 git 仓库中上传了比赛数据集文件, 可能会被警告甚至罚分; 你的模型参数文件可以上传, 但最好使用 [`git lfs`](https://git.tsinghua.edu.cn/help/topics/git/lfs/_index.md) , 或者修改 `Makefile` 使用云盘链接下载的方式获取模型参数文件, 尽量保证远程 git 仓库不对大文件本体进行追踪.
 3. 在 ci 评测中, 选手可以自行更改 `Makefile` 选择测试集范围, 是否评测 MRI 也可自行决定.
+4. 如果需要下载额外的 python 包, 可在 `.gitlab-ci.yml` 中使用 `pip install` 命令自行下载. 一旦对 `.gitlab-ci.yml` 进行修改, 请注意需要在报告中指出.
