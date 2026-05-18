@@ -12,6 +12,7 @@
 # 赛事培训会
 - [第一次赛事培训](./talk/talk1.md)
 - [第二次赛事培训](./talk/talk2.md)
+- [第三次赛事培训](./talk/talk3.md)
 
 # 常见问题
 - [环境配置问题](./environment.md)
