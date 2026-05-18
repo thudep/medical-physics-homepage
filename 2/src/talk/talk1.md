@@ -52,3 +52,4 @@ wsl --install -d Debian
 
 第一次培训的材料如下，包含本次培训录屏与PPT，以及深度学习资料：
 - [第一次赛事培训材料](https://cloud.tsinghua.edu.cn/d/77dec93fd82e44e8b805/)
+- **第一次赛事小任务**： 手写数字识别（具体内容见培训材料ppt最后一页）。
